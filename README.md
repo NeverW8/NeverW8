@@ -27,8 +27,4 @@ If you do some googling you'll find my resume on my website, but I would suggest
 I like beer, guitars, my dog, my computers and videogames.
 
 I'm very bad at updating my projects here. Cheers!
-
-<!---
-NeverW8/NeverW8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Cya!
