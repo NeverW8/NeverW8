@@ -27,4 +27,3 @@ If you do some googling you'll find my resume on my website, but I would suggest
 I like beer, guitars, my dog, my computers and videogames.
 
 I'm very bad at updating my projects here. Cheers!
-Cya!
