@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NeverW8 , aka Carl.
 - 👀 I’m interested in weird projects, guitars/music and training with my dog!
-- 🌱 I’m currently learning Electron and trying to become better with Python.
+- 🌱 I’m currently learning DevOps stuff and trying to become better with Python.
 - 💞️ I’m looking to collaborate on some obscure project ![KEKW](https://cdn.frankerfacez.com/emoticon/381875/1)
 - 📫 How to reach me; Twitter@sheikuru or Fiskenhero#0001 on discord. (most likely discord)
 
@@ -14,7 +14,7 @@ These projects are just an idea of some stuff I like working with.
 
 # Learning & Background
 
-I'm currently digging deep into python and eventually learning Electron, this is because I lack general programming experience.
+I'm currently digging deep into DevOps design and eventually learning python, this is because I lack general programming experience.
 I come from a SysAdmin/SysOps/DevOps kind of background with knowledge about server management, scripting, automation (CI/CD) etc., 
 my knowledge sits best inside Linux & Open source enviroments and I'm trying to become better at general coding outside the expertise I already learned.
 
