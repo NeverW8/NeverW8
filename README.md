@@ -21,10 +21,3 @@ If you do some googling you'll find my resume on my website, but I would suggest
 I like beer, guitars, my dog, my computers and videogames.
 
 I'm very bad at updating my projects here. Cheers!
-
-
-<div align="center">
-<img width="350" height="165" src="https://github-readme-stats.vercel.app/api?username=NeverW8&show_icons=true&theme=dracula&layout=compact" />
-<img width="350" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeverW8&theme=dracula&layout=compact"/>
-</div>
-
