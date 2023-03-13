@@ -21,3 +21,8 @@ If you do some googling you'll find my resume on my website, but I would suggest
 I like beer, guitars, my dog, my computers and videogames.
 
 I'm very bad at updating my projects here. Cheers!
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=neverw8&show_icons=true&theme=dracula)
+
+[Stats](https://github.com/anuraghazra/github-readme-stats)
